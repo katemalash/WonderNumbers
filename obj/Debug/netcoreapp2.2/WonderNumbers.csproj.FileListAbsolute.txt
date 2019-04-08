@@ -1,0 +1,11 @@
+C:\Users\kmala\Desktop\WonderNumbers\obj\Debug\netcoreapp2.2\WonderNumbers.csprojAssemblyReference.cache
+C:\Users\kmala\Desktop\WonderNumbers\obj\Debug\netcoreapp2.2\WonderNumbers.csproj.CoreCompileInputs.cache
+C:\Users\kmala\Desktop\WonderNumbers\obj\Debug\netcoreapp2.2\WonderNumbers.AssemblyInfoInputs.cache
+C:\Users\kmala\Desktop\WonderNumbers\obj\Debug\netcoreapp2.2\WonderNumbers.AssemblyInfo.cs
+C:\Users\kmala\Desktop\WonderNumbers\bin\Debug\netcoreapp2.2\WonderNumbers.deps.json
+C:\Users\kmala\Desktop\WonderNumbers\bin\Debug\netcoreapp2.2\WonderNumbers.runtimeconfig.json
+C:\Users\kmala\Desktop\WonderNumbers\bin\Debug\netcoreapp2.2\WonderNumbers.runtimeconfig.dev.json
+C:\Users\kmala\Desktop\WonderNumbers\bin\Debug\netcoreapp2.2\WonderNumbers.dll
+C:\Users\kmala\Desktop\WonderNumbers\bin\Debug\netcoreapp2.2\WonderNumbers.pdb
+C:\Users\kmala\Desktop\WonderNumbers\obj\Debug\netcoreapp2.2\WonderNumbers.dll
+C:\Users\kmala\Desktop\WonderNumbers\obj\Debug\netcoreapp2.2\WonderNumbers.pdb
